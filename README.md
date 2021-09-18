@@ -1,2 +1,3 @@
 # Crash
-Programs that crash
+Programs that crash, to help learn some debugging techniques.
+
