@@ -5,8 +5,7 @@ int main() {
   int i;
   int a[10];
 
-  for (i=0; i<25000; i++) {
-    printf("%d ", i);
+  for (i=0; i<20; i++) {
     a[i] = i;
   }
   
